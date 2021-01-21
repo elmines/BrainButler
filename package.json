@@ -21,7 +21,7 @@
     "react-native-system-setting": "^1.7.2",
     "react-navigation": "^2.18.3",
     "seedrandom": "^3.0.5",
-    "socket.io": "^2.3.0"
+    "socket.io": "^2.4.0"
   },
   "devDependencies": {
     "babel-jest": "23.6.0",
